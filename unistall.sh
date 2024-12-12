@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # A uninstall script of Bksys program
 
 # root privilege

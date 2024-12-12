@@ -1,3 +1,4 @@
+#!/bin/bash
 # A install script of BackupSystem
 
 # root privilege
